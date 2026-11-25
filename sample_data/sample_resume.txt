@@ -1,0 +1,23 @@
+NARENDRA
+Email: narendra@example.com
+Location: Hyderabad
+
+SUMMARY
+AI and Data Science undergraduate interested in Python development, data analysis and practical AI applications.
+
+EDUCATION
+B.Tech in Artificial Intelligence and Data Science
+ICFAI University, Hyderabad
+
+TECHNICAL SKILLS
+Python, SQL, PostgreSQL, Pandas, NumPy, Machine Learning, Generative AI, Prompt Engineering, Git, GitHub, Streamlit, REST API, Data Structures, Object Oriented Programming.
+
+PROJECTS
+TaskFlow - Smart To-Do Application
+Built a task management application using Python and Streamlit. Added task creation, editing, deletion, filtering, priority and due-date features. Used SQLite for database management and integrated an AI assistant concept.
+
+Agricultural Weather Monitoring System
+Worked on an IoT and AI-based project concept to monitor temperature, humidity, soil moisture and rainfall and provide useful agricultural recommendations.
+
+SKILLS
+Problem solving, communication, teamwork and quick learning.

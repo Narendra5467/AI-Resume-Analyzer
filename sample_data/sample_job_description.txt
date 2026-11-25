@@ -1,0 +1,21 @@
+Software Engineering Intern
+
+We are looking for a Software Engineering Intern to help build AI-powered products.
+
+Requirements:
+- Strong Python programming skills
+- Understanding of data structures and algorithms
+- SQL and PostgreSQL database knowledge
+- Experience with REST APIs and backend development
+- Understanding of object oriented programming
+- Interest in Generative AI, LLMs and prompt engineering
+- Familiarity with embeddings, RAG and vector databases is a plus
+- Git and GitHub knowledge
+- Good problem-solving and communication skills
+
+Responsibilities:
+- Build and maintain backend features
+- Integrate APIs and databases
+- Experiment with LLM-powered workflows and AI agents
+- Write readable, testable code
+- Collaborate with engineers to deliver product features
