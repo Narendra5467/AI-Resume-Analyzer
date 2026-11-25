@@ -21,50 +21,15 @@ A beginner-friendly Python + Streamlit project that compares a resume with a job
 - Visual Studio Code
 - Internet connection for installing Python packages
 
-Check Python:
 
-```bash
-python --version
-```
-
-## 2. Open in VS Code
-
-1. Extract the downloaded ZIP file.
-2. Open VS Code.
-3. Select **File → Open Folder**.
-4. Choose the `AI_Resume_Analyzer` folder.
-5. Open **Terminal → New Terminal**.
-
-## 3. Create a virtual environment
-
-### Windows
-
-```powershell
-python -m venv venv
-venv\Scripts\activate
-```
-
-If PowerShell blocks activation, use Command Prompt terminal and run:
-
-```cmd
-venv\Scripts\activate.bat
-```
-
-### macOS / Linux
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-## 4. Install dependencies
+## 2. Install dependencies
 
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## 5. Run the application
+## 3. Run the application
 
 ```bash
 streamlit run app.py
@@ -74,7 +39,7 @@ Streamlit will open the app in your browser, usually at:
 
 `http://localhost:8501`
 
-## 6. Test the project
+## 4. Test the project
 
 - Open `sample_data/sample_resume.txt`.
 - Copy its contents into a `.txt` file and upload it, or use your own PDF/DOCX/TXT resume.
